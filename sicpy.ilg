@@ -1,0 +1,2132 @@
+This is makeindex, version 2.17 [TeX Live 2023] (kpathsea + Thai support).
+Scanning input file sicpy.idx.......done (3916 entries accepted, 0 rejected).
+Scanning input file sicpy.idx.......done (3916 entries accepted, 0 rejected).
+Overall 2 files read (7832 entries accepted, 0 rejected).
+Sorting entries................................................................................done (115353 comparisons).
+Generating output file sicpy.ind....
+## Warning (input = sicpy.idx, line = 111; output = sicpy.ind, line = 58):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 137; output = sicpy.ind, line = 58):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3176; output = sicpy.ind, line = 96):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3178; output = sicpy.ind, line = 96):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 743; output = sicpy.ind, line = 98):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 760; output = sicpy.ind, line = 98):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3167; output = sicpy.ind, line = 118):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3174; output = sicpy.ind, line = 118):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1304; output = sicpy.ind, line = 142):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1336; output = sicpy.ind, line = 142):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1095; output = sicpy.ind, line = 183):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1127; output = sicpy.ind, line = 183):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1101; output = sicpy.ind, line = 184):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1124; output = sicpy.ind, line = 184):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1115; output = sicpy.ind, line = 185):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1120; output = sicpy.ind, line = 185):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 472; output = sicpy.ind, line = 193):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 477; output = sicpy.ind, line = 193):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2617; output = sicpy.ind, line = 216):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2623; output = sicpy.ind, line = 216):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2818; output = sicpy.ind, line = 217):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2822; output = sicpy.ind, line = 217):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2610; output = sicpy.ind, line = 220):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2627; output = sicpy.ind, line = 220):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2844; output = sicpy.ind, line = 248):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2858; output = sicpy.ind, line = 248):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2634; output = sicpy.ind, line = 257):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2644; output = sicpy.ind, line = 257):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 800; output = sicpy.ind, line = 301):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 824; output = sicpy.ind, line = 301):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 702; output = sicpy.ind, line = 304):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 740; output = sicpy.ind, line = 304):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3255; output = sicpy.ind, line = 313):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3272; output = sicpy.ind, line = 313):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1533; output = sicpy.ind, line = 325):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1641; output = sicpy.ind, line = 325):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1581; output = sicpy.ind, line = 328):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1608; output = sicpy.ind, line = 328):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1609; output = sicpy.ind, line = 331):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1643; output = sicpy.ind, line = 331):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1152; output = sicpy.ind, line = 406):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1184; output = sicpy.ind, line = 406):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 297; output = sicpy.ind, line = 425):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 307; output = sicpy.ind, line = 425):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2584; output = sicpy.ind, line = 425):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2606; output = sicpy.ind, line = 425):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1694; output = sicpy.ind, line = 426):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1708; output = sicpy.ind, line = 426):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3759; output = sicpy.ind, line = 462):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1616; output = sicpy.ind, line = 487):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1622; output = sicpy.ind, line = 487):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1386; output = sicpy.ind, line = 527):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1417; output = sicpy.ind, line = 527):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3580; output = sicpy.ind, line = 577):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3597; output = sicpy.ind, line = 577):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3588; output = sicpy.ind, line = 578):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3595; output = sicpy.ind, line = 578):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3598; output = sicpy.ind, line = 583):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3763; output = sicpy.ind, line = 583):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3793; output = sicpy.ind, line = 583):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3658; output = sicpy.ind, line = 590):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3676; output = sicpy.ind, line = 590):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3601; output = sicpy.ind, line = 594):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3604; output = sicpy.ind, line = 594):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3697; output = sicpy.ind, line = 595):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3703; output = sicpy.ind, line = 595):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3599; output = sicpy.ind, line = 596):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3605; output = sicpy.ind, line = 596):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3657; output = sicpy.ind, line = 599):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3675; output = sicpy.ind, line = 599):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3729; output = sicpy.ind, line = 600):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3761; output = sicpy.ind, line = 600):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3713; output = sicpy.ind, line = 603):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3721; output = sicpy.ind, line = 603):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3753; output = sicpy.ind, line = 608):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3730; output = sicpy.ind, line = 614):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3762; output = sicpy.ind, line = 614):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3606; output = sicpy.ind, line = 618):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3623; output = sicpy.ind, line = 618):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3726; output = sicpy.ind, line = 622):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1240; output = sicpy.ind, line = 632):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1241; output = sicpy.ind, line = 632):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1263; output = sicpy.ind, line = 633):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1300; output = sicpy.ind, line = 633):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 681; output = sicpy.ind, line = 639):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 685; output = sicpy.ind, line = 639):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2888; output = sicpy.ind, line = 645):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2895; output = sicpy.ind, line = 645):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2928; output = sicpy.ind, line = 646):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2937; output = sicpy.ind, line = 646):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3005; output = sicpy.ind, line = 646):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3016; output = sicpy.ind, line = 646):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3112; output = sicpy.ind, line = 647):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1960; output = sicpy.ind, line = 656):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2047; output = sicpy.ind, line = 656):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1975; output = sicpy.ind, line = 657):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1980; output = sicpy.ind, line = 657):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2026; output = sicpy.ind, line = 658):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2035; output = sicpy.ind, line = 658):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1981; output = sicpy.ind, line = 660):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2048; output = sicpy.ind, line = 660):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 567; output = sicpy.ind, line = 679):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 581; output = sicpy.ind, line = 679):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1915; output = sicpy.ind, line = 719):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1959; output = sicpy.ind, line = 719):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2806; output = sicpy.ind, line = 731):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2810; output = sicpy.ind, line = 731):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3129; output = sicpy.ind, line = 744):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3142; output = sicpy.ind, line = 744):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 929; output = sicpy.ind, line = 749):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 998; output = sicpy.ind, line = 749):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 366; output = sicpy.ind, line = 764):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 372; output = sicpy.ind, line = 764):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1711; output = sicpy.ind, line = 777):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1712; output = sicpy.ind, line = 777):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 682; output = sicpy.ind, line = 801):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 686; output = sicpy.ind, line = 801):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 765; output = sicpy.ind, line = 803):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 796; output = sicpy.ind, line = 803):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 899; output = sicpy.ind, line = 804):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 915; output = sicpy.ind, line = 804):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 761; output = sicpy.ind, line = 806):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 798; output = sicpy.ind, line = 806):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2562; output = sicpy.ind, line = 809):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2579; output = sicpy.ind, line = 809):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1741; output = sicpy.ind, line = 810):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1752; output = sicpy.ind, line = 810):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1265; output = sicpy.ind, line = 812):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1302; output = sicpy.ind, line = 812):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2874; output = sicpy.ind, line = 818):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2877; output = sicpy.ind, line = 818):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1303; output = sicpy.ind, line = 823):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1335; output = sicpy.ind, line = 823):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3128; output = sicpy.ind, line = 828):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3141; output = sicpy.ind, line = 828):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2027; output = sicpy.ind, line = 833):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2036; output = sicpy.ind, line = 833):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2842; output = sicpy.ind, line = 852):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2859; output = sicpy.ind, line = 852):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 524; output = sicpy.ind, line = 865):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 527; output = sicpy.ind, line = 865):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2630; output = sicpy.ind, line = 874):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2703; output = sicpy.ind, line = 874):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2228; output = sicpy.ind, line = 875):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2230; output = sicpy.ind, line = 875):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2207; output = sicpy.ind, line = 877):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2226; output = sicpy.ind, line = 877):
+   -- Unmatched range closing operator ).
+.
+## Warning (input = sicpy.idx, line = 2421; output = sicpy.ind, line = 909):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2440; output = sicpy.ind, line = 909):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2221; output = sicpy.ind, line = 915):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1093; output = sicpy.ind, line = 919):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1125; output = sicpy.ind, line = 919):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1830; output = sicpy.ind, line = 921):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1912; output = sicpy.ind, line = 921):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1871; output = sicpy.ind, line = 922):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1882; output = sicpy.ind, line = 922):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1889; output = sicpy.ind, line = 923):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1913; output = sicpy.ind, line = 923):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1850; output = sicpy.ind, line = 924):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1862; output = sicpy.ind, line = 924):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1863; output = sicpy.ind, line = 925):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1870; output = sicpy.ind, line = 925):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1883; output = sicpy.ind, line = 926):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1886; output = sicpy.ind, line = 926):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1644; output = sicpy.ind, line = 1053):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1707; output = sicpy.ind, line = 1053):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1672; output = sicpy.ind, line = 1056):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1679; output = sicpy.ind, line = 1056):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1695; output = sicpy.ind, line = 1057):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1709; output = sicpy.ind, line = 1057):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1683; output = sicpy.ind, line = 1058):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1692; output = sicpy.ind, line = 1058):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1660; output = sicpy.ind, line = 1061):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1671; output = sicpy.ind, line = 1061):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 431; output = sicpy.ind, line = 1087):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 440; output = sicpy.ind, line = 1087):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 94; output = sicpy.ind, line = 1136):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 107; output = sicpy.ind, line = 1136):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3273; output = sicpy.ind, line = 1188):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3342; output = sicpy.ind, line = 1188):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3452; output = sicpy.ind, line = 1189):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3579; output = sicpy.ind, line = 1189):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3489; output = sicpy.ind, line = 1190):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3496; output = sicpy.ind, line = 1190):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3483; output = sicpy.ind, line = 1193):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3509; output = sicpy.ind, line = 1193):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3469; output = sicpy.ind, line = 1196):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3560; output = sicpy.ind, line = 1196):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3458; output = sicpy.ind, line = 1197):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3468; output = sicpy.ind, line = 1197):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3471; output = sicpy.ind, line = 1202):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3475; output = sicpy.ind, line = 1202):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3482; output = sicpy.ind, line = 1203):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3508; output = sicpy.ind, line = 1203):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3731; output = sicpy.ind, line = 1206):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3736; output = sicpy.ind, line = 1206):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3565; output = sicpy.ind, line = 1207):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3576; output = sicpy.ind, line = 1207):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3502; output = sicpy.ind, line = 1213):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3522; output = sicpy.ind, line = 1213):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3545; output = sicpy.ind, line = 1214):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3564; output = sicpy.ind, line = 1214):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3478; output = sicpy.ind, line = 1215):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3481; output = sicpy.ind, line = 1215):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3513; output = sicpy.ind, line = 1218):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3523; output = sicpy.ind, line = 1218):
+   -- Inconsistent page encapsulator xx{5.22} within range.
+
+## Warning (input = sicpy.idx, line = 3530; output = sicpy.ind, line = 1218):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 403; output = sicpy.ind, line = 1225):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 417; output = sicpy.ind, line = 1225):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2524; output = sicpy.ind, line = 1243):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3260; output = sicpy.ind, line = 1251):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3698; output = sicpy.ind, line = 1257):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3706; output = sicpy.ind, line = 1257):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3192; output = sicpy.ind, line = 1263):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3198; output = sicpy.ind, line = 1263):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3571; output = sicpy.ind, line = 1265):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 449; output = sicpy.ind, line = 1299):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 474; output = sicpy.ind, line = 1299):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 590; output = sicpy.ind, line = 1350):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 606; output = sicpy.ind, line = 1350):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1030; output = sicpy.ind, line = 1373):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1681; output = sicpy.ind, line = 1401):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1690; output = sicpy.ind, line = 1401):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 591; output = sicpy.ind, line = 1446):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 607; output = sicpy.ind, line = 1446):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 242; output = sicpy.ind, line = 1447):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 248; output = sicpy.ind, line = 1447):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1495; output = sicpy.ind, line = 1448):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1515; output = sicpy.ind, line = 1448):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 507; output = sicpy.ind, line = 1453):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 541; output = sicpy.ind, line = 1453):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 274; output = sicpy.ind, line = 1454):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 278; output = sicpy.ind, line = 1454):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 583; output = sicpy.ind, line = 1459):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 624; output = sicpy.ind, line = 1459):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 241; output = sicpy.ind, line = 1462):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 247; output = sicpy.ind, line = 1462):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 626; output = sicpy.ind, line = 1469):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 679; output = sicpy.ind, line = 1469):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2245; output = sicpy.ind, line = 1475):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2278; output = sicpy.ind, line = 1475):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2259; output = sicpy.ind, line = 1478):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2280; output = sicpy.ind, line = 1478):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 766; output = sicpy.ind, line = 1479):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 797; output = sicpy.ind, line = 1479):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1757; output = sicpy.ind, line = 1480):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1769; output = sicpy.ind, line = 1480):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1673; output = sicpy.ind, line = 1484):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1680; output = sicpy.ind, line = 1484):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 548; output = sicpy.ind, line = 1496):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 554; output = sicpy.ind, line = 1496):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3414; output = sicpy.ind, line = 1520):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3449; output = sicpy.ind, line = 1520):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3416; output = sicpy.ind, line = 1527):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3451; output = sicpy.ind, line = 1527):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3131; output = sicpy.ind, line = 1532):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3139; output = sicpy.ind, line = 1532):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1346; output = sicpy.ind, line = 1541):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1381; output = sicpy.ind, line = 1541):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 430; output = sicpy.ind, line = 1583):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 439; output = sicpy.ind, line = 1583):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1884; output = sicpy.ind, line = 1597):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1887; output = sicpy.ind, line = 1597):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 584; output = sicpy.ind, line = 1598):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 589; output = sicpy.ind, line = 1598):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 789; output = sicpy.ind, line = 1616):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 900; output = sicpy.ind, line = 1628):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 916; output = sicpy.ind, line = 1628):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1393; output = sicpy.ind, line = 1629):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1419; output = sicpy.ind, line = 1629):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1485; output = sicpy.ind, line = 1631):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1491; output = sicpy.ind, line = 1631):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 506; output = sicpy.ind, line = 1633):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 540; output = sicpy.ind, line = 1633):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 582; output = sicpy.ind, line = 1634):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 623; output = sicpy.ind, line = 1634):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 625; output = sicpy.ind, line = 1635):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 678; output = sicpy.ind, line = 1635):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1192; output = sicpy.ind, line = 1649):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1229; output = sicpy.ind, line = 1649):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2843; output = sicpy.ind, line = 1672):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2860; output = sicpy.ind, line = 1672):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2090; output = sicpy.ind, line = 1683):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2142; output = sicpy.ind, line = 1683):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2167; output = sicpy.ind, line = 1691):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2181; output = sicpy.ind, line = 1691):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2184; output = sicpy.ind, line = 1696):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2205; output = sicpy.ind, line = 1696):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3616; output = sicpy.ind, line = 1739):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3622; output = sicpy.ind, line = 1739):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3684; output = sicpy.ind, line = 1739):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3696; output = sicpy.ind, line = 1739):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 298; output = sicpy.ind, line = 1767):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 308; output = sicpy.ind, line = 1767):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1696; output = sicpy.ind, line = 1768):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1710; output = sicpy.ind, line = 1768):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2585; output = sicpy.ind, line = 1775):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2607; output = sicpy.ind, line = 1775):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3589; output = sicpy.ind, line = 1779):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3596; output = sicpy.ind, line = 1779):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 799; output = sicpy.ind, line = 1786):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 823; output = sicpy.ind, line = 1786):
+   -- Unmatched range closing operator ).
+.
+## Warning (input = sicpy.idx, line = 2144; output = sicpy.ind, line = 1915):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2165; output = sicpy.ind, line = 1915):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 264; output = sicpy.ind, line = 1917):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 266; output = sicpy.ind, line = 1917):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 314; output = sicpy.ind, line = 1920):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 346; output = sicpy.ind, line = 1920):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 547; output = sicpy.ind, line = 1990):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 553; output = sicpy.ind, line = 1990):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2629; output = sicpy.ind, line = 2012):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2677; output = sicpy.ind, line = 2012):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2679; output = sicpy.ind, line = 2013):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2705; output = sicpy.ind, line = 2013):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2681; output = sicpy.ind, line = 2014):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2707; output = sicpy.ind, line = 2014):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3714; output = sicpy.ind, line = 2035):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3722; output = sicpy.ind, line = 2035):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 891; output = sicpy.ind, line = 2066):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 897; output = sicpy.ind, line = 2066):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 860; output = sicpy.ind, line = 2068):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 889; output = sicpy.ind, line = 2068):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 861; output = sicpy.ind, line = 2071):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 890; output = sicpy.ind, line = 2071):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2680; output = sicpy.ind, line = 2088):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2706; output = sicpy.ind, line = 2088):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1718; output = sicpy.ind, line = 2101):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1738; output = sicpy.ind, line = 2101):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3372; output = sicpy.ind, line = 2102):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3413; output = sicpy.ind, line = 2102):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3359; output = sicpy.ind, line = 2103):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3447; output = sicpy.ind, line = 2103):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 279; output = sicpy.ind, line = 2115):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 295; output = sicpy.ind, line = 2115):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 564; output = sicpy.ind, line = 2115):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 565; output = sicpy.ind, line = 2115):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1534; output = sicpy.ind, line = 2116):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1642; output = sicpy.ind, line = 2116):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1682; output = sicpy.ind, line = 2117):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1691; output = sicpy.ind, line = 2117):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1537; output = sicpy.ind, line = 2118):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1579; output = sicpy.ind, line = 2118):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2832; output = sicpy.ind, line = 2131):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2864; output = sicpy.ind, line = 2131):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2960; output = sicpy.ind, line = 2137):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2987; output = sicpy.ind, line = 2137):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2771; output = sicpy.ind, line = 2138):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2781; output = sicpy.ind, line = 2138):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 811; output = sicpy.ind, line = 2238):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1684; output = sicpy.ind, line = 2327):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1693; output = sicpy.ind, line = 2327):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 892; output = sicpy.ind, line = 2335):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 898; output = sicpy.ind, line = 2335):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 978; output = sicpy.ind, line = 2336):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 999; output = sicpy.ind, line = 2336):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2168; output = sicpy.ind, line = 2336):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2182; output = sicpy.ind, line = 2336):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 920; output = sicpy.ind, line = 2338):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 927; output = sicpy.ind, line = 2338):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3360; output = sicpy.ind, line = 2395):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3448; output = sicpy.ind, line = 2395):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1337; output = sicpy.ind, line = 2401):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1345; output = sicpy.ind, line = 2401):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2292; output = sicpy.ind, line = 2407):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2583; output = sicpy.ind, line = 2407):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2611; output = sicpy.ind, line = 2411):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2628; output = sicpy.ind, line = 2411):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3760; output = sicpy.ind, line = 2412):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2345; output = sicpy.ind, line = 2413):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2436; output = sicpy.ind, line = 2413):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2423; output = sicpy.ind, line = 2417):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2438; output = sicpy.ind, line = 2417):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2305; output = sicpy.ind, line = 2422):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2342; output = sicpy.ind, line = 2422):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2534; output = sicpy.ind, line = 2435):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2546; output = sicpy.ind, line = 2435):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2517; output = sicpy.ind, line = 2436):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2528; output = sicpy.ind, line = 2436):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2533; output = sicpy.ind, line = 2440):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2560; output = sicpy.ind, line = 2440):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2466; output = sicpy.ind, line = 2442):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2424; output = sicpy.ind, line = 2444):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2439; output = sicpy.ind, line = 2444):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2346; output = sicpy.ind, line = 2445):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2437; output = sicpy.ind, line = 2445):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2244; output = sicpy.ind, line = 2476):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2277; output = sicpy.ind, line = 2476):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1713; output = sicpy.ind, line = 2523):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1770; output = sicpy.ind, line = 2523):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1754; output = sicpy.ind, line = 2524):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1766; output = sicpy.ind, line = 2524):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1755; output = sicpy.ind, line = 2525):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1767; output = sicpy.ind, line = 2525):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1717; output = sicpy.ind, line = 2526):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1737; output = sicpy.ind, line = 2526):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1719; output = sicpy.ind, line = 2527):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1739; output = sicpy.ind, line = 2527):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 636; output = sicpy.ind, line = 2582):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 651; output = sicpy.ind, line = 2582):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 250; output = sicpy.ind, line = 2584):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 263; output = sicpy.ind, line = 2584):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2709; output = sicpy.ind, line = 2600):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2800; output = sicpy.ind, line = 2600):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2803; output = sicpy.ind, line = 2601):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2831; output = sicpy.ind, line = 2601):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2786; output = sicpy.ind, line = 2604):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2772; output = sicpy.ind, line = 2606):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2782; output = sicpy.ind, line = 2606):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2788; output = sicpy.ind, line = 2608):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2796; output = sicpy.ind, line = 2608):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2768; output = sicpy.ind, line = 2609):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2633; output = sicpy.ind, line = 2619):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2643; output = sicpy.ind, line = 2619):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2227; output = sicpy.ind, line = 2622):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2229; output = sicpy.ind, line = 2622):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3130; output = sicpy.ind, line = 2681):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3145; output = sicpy.ind, line = 2681):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 93; output = sicpy.ind, line = 2692):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 106; output = sicpy.ind, line = 2692):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1144; output = sicpy.ind, line = 2743):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1150; output = sicpy.ind, line = 2743):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 376; output = sicpy.ind, line = 2755):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 400; output = sicpy.ind, line = 2755):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1859; output = sicpy.ind, line = 2765):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 788; output = sicpy.ind, line = 2793):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 1729; output = sicpy.ind, line = 2795):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 767; output = sicpy.ind, line = 2802):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 793; output = sicpy.ind, line = 2802):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1756; output = sicpy.ind, line = 2802):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1768; output = sicpy.ind, line = 2802):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2166; output = sicpy.ind, line = 2803):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2180; output = sicpy.ind, line = 2803):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2682; output = sicpy.ind, line = 2804):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2708; output = sicpy.ind, line = 2804):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1720; output = sicpy.ind, line = 2805):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1740; output = sicpy.ind, line = 2805):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3371; output = sicpy.ind, line = 2806):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3412; output = sicpy.ind, line = 2806):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 902; output = sicpy.ind, line = 2808):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 918; output = sicpy.ind, line = 2808):
+   -- Unmatched range closing operator ).
+.
+## Warning (input = sicpy.idx, line = 2793; output = sicpy.ind, line = 2830):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2795; output = sicpy.ind, line = 2830):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2787; output = sicpy.ind, line = 2832):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2799; output = sicpy.ind, line = 2832):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2347; output = sicpy.ind, line = 2834):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2352; output = sicpy.ind, line = 2834):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2880; output = sicpy.ind, line = 2859):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2884; output = sicpy.ind, line = 2859):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2919; output = sicpy.ind, line = 2862):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2924; output = sicpy.ind, line = 2862):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3019; output = sicpy.ind, line = 2863):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3025; output = sicpy.ind, line = 2863):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2779; output = sicpy.ind, line = 2880):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2149; output = sicpy.ind, line = 2887):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2161; output = sicpy.ind, line = 2887):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1000; output = sicpy.ind, line = 2889):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1068; output = sicpy.ind, line = 2889):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1424; output = sicpy.ind, line = 2910):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1518; output = sicpy.ind, line = 2910):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1486; output = sicpy.ind, line = 2914):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1492; output = sicpy.ind, line = 2914):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1425; output = sicpy.ind, line = 2918):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1519; output = sicpy.ind, line = 2918):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1433; output = sicpy.ind, line = 2919):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1462; output = sicpy.ind, line = 2919):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1498; output = sicpy.ind, line = 2922):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1509; output = sicpy.ind, line = 2922):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1434; output = sicpy.ind, line = 2924):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1463; output = sicpy.ind, line = 2924):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1496; output = sicpy.ind, line = 2926):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1516; output = sicpy.ind, line = 2926):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 444; output = sicpy.ind, line = 2956):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 478; output = sicpy.ind, line = 2956):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 450; output = sicpy.ind, line = 2959):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 475; output = sicpy.ind, line = 2959):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 443; output = sicpy.ind, line = 2963):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 503; output = sicpy.ind, line = 2963):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 471; output = sicpy.ind, line = 3058):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 476; output = sicpy.ind, line = 3058):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 359; output = sicpy.ind, line = 3071):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 370; output = sicpy.ind, line = 3071):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2561; output = sicpy.ind, line = 3078):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2578; output = sicpy.ind, line = 3078):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 296; output = sicpy.ind, line = 3081):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 306; output = sicpy.ind, line = 3081):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 34; output = sicpy.ind, line = 3089):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 43; output = sicpy.ind, line = 3089):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1914; output = sicpy.ind, line = 3115):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1958; output = sicpy.ind, line = 3115):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2770; output = sicpy.ind, line = 3128):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2780; output = sicpy.ind, line = 3128):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2767; output = sicpy.ind, line = 3132):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3044; output = sicpy.ind, line = 3169):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3050; output = sicpy.ind, line = 3169):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2989; output = sicpy.ind, line = 3170):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2998; output = sicpy.ind, line = 3170):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3093; output = sicpy.ind, line = 3172):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3100; output = sicpy.ind, line = 3172):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3110; output = sicpy.ind, line = 3173):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2969; output = sicpy.ind, line = 3175):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2971; output = sicpy.ind, line = 3175):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2994; output = sicpy.ind, line = 3176):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2997; output = sicpy.ind, line = 3176):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3067; output = sicpy.ind, line = 3176):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3071; output = sicpy.ind, line = 3176):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2917; output = sicpy.ind, line = 3178):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2958; output = sicpy.ind, line = 3178):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2918; output = sicpy.ind, line = 3179):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2923; output = sicpy.ind, line = 3179):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3018; output = sicpy.ind, line = 3179):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3024; output = sicpy.ind, line = 3179):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2972; output = sicpy.ind, line = 3181):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2977; output = sicpy.ind, line = 3181):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2999; output = sicpy.ind, line = 3184):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3017; output = sicpy.ind, line = 3184):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3051; output = sicpy.ind, line = 3187):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3057; output = sicpy.ind, line = 3187):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3058; output = sicpy.ind, line = 3189):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3091; output = sicpy.ind, line = 3189):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2938; output = sicpy.ind, line = 3190):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2942; output = sicpy.ind, line = 3190):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3031; output = sicpy.ind, line = 3190):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3042; output = sicpy.ind, line = 3190):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2870; output = sicpy.ind, line = 3191):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2916; output = sicpy.ind, line = 3191):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2873; output = sicpy.ind, line = 3194):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2878; output = sicpy.ind, line = 3194):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2907; output = sicpy.ind, line = 3197):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2915; output = sicpy.ind, line = 3197):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2959; output = sicpy.ind, line = 3198):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2986; output = sicpy.ind, line = 3198):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3059; output = sicpy.ind, line = 3201):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3092; output = sicpy.ind, line = 3201):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1771; output = sicpy.ind, line = 3203):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1795; output = sicpy.ind, line = 3203):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1494; output = sicpy.ind, line = 3236):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1514; output = sicpy.ind, line = 3236):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1510; output = sicpy.ind, line = 3237):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1512; output = sicpy.ind, line = 3237):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 703; output = sicpy.ind, line = 3239):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 741; output = sicpy.ind, line = 3239):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 704; output = sicpy.ind, line = 3243):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 742; output = sicpy.ind, line = 3243):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 315; output = sicpy.ind, line = 3282):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 347; output = sicpy.ind, line = 3282):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3188; output = sicpy.ind, line = 3286):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3205; output = sicpy.ind, line = 3286):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 360; output = sicpy.ind, line = 3287):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 371; output = sicpy.ind, line = 3287):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1511; output = sicpy.ind, line = 3289):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1513; output = sicpy.ind, line = 3289):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3168; output = sicpy.ind, line = 3303):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3175; output = sicpy.ind, line = 3303):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3127; output = sicpy.ind, line = 3304):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3144; output = sicpy.ind, line = 3304):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3126; output = sicpy.ind, line = 3307):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3143; output = sicpy.ind, line = 3307):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3125; output = sicpy.ind, line = 3308):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3221; output = sicpy.ind, line = 3308):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3146; output = sicpy.ind, line = 3309):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3173; output = sicpy.ind, line = 3309):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3343; output = sicpy.ind, line = 3310):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3358; output = sicpy.ind, line = 3310):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3223; output = sicpy.ind, line = 3311):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3355; output = sicpy.ind, line = 3311):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3187; output = sicpy.ind, line = 3312):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3204; output = sicpy.ind, line = 3312):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3179; output = sicpy.ind, line = 3313):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3184; output = sicpy.ind, line = 3313):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3207; output = sicpy.ind, line = 3315):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3222; output = sicpy.ind, line = 3315):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3274; output = sicpy.ind, line = 3325):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3341; output = sicpy.ind, line = 3325):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3224; output = sicpy.ind, line = 3345):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3356; output = sicpy.ind, line = 3345):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2897; output = sicpy.ind, line = 3442):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2914; output = sicpy.ind, line = 3442):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2944; output = sicpy.ind, line = 3443):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2946; output = sicpy.ind, line = 3443):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3026; output = sicpy.ind, line = 3443):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3030; output = sicpy.ind, line = 3443):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1615; output = sicpy.ind, line = 3455):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1621; output = sicpy.ind, line = 3455):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2890; output = sicpy.ind, line = 3457):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2894; output = sicpy.ind, line = 3457):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2598; output = sicpy.ind, line = 3480):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2605; output = sicpy.ind, line = 3480):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2586; output = sicpy.ind, line = 3497):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2608; output = sicpy.ind, line = 3497):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 928; output = sicpy.ind, line = 3519):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 997; output = sicpy.ind, line = 3519):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 938; output = sicpy.ind, line = 3521):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 977; output = sicpy.ind, line = 3521):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2597; output = sicpy.ind, line = 3529):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2604; output = sicpy.ind, line = 3529):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1982; output = sicpy.ind, line = 3533):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1988; output = sicpy.ind, line = 3533):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1999; output = sicpy.ind, line = 3534):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2025; output = sicpy.ind, line = 3534):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1989; output = sicpy.ind, line = 3535):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1997; output = sicpy.ind, line = 3535):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1129; output = sicpy.ind, line = 3541):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1134; output = sicpy.ind, line = 3541):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1151; output = sicpy.ind, line = 3543):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1183; output = sicpy.ind, line = 3543):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1143; output = sicpy.ind, line = 3544):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1149; output = sicpy.ind, line = 3544):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1135; output = sicpy.ind, line = 3545):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1141; output = sicpy.ind, line = 3545):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1742; output = sicpy.ind, line = 3582):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1753; output = sicpy.ind, line = 3582):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1990; output = sicpy.ind, line = 3583):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1998; output = sicpy.ind, line = 3583):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2183; output = sicpy.ind, line = 3600):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2204; output = sicpy.ind, line = 3600):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2195; output = sicpy.ind, line = 3601):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 2879; output = sicpy.ind, line = 3607):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2887; output = sicpy.ind, line = 3607):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2947; output = sicpy.ind, line = 3608):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2948; output = sicpy.ind, line = 3608):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3002; output = sicpy.ind, line = 3608):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3004; output = sicpy.ind, line = 3608):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3225; output = sicpy.ind, line = 3617):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3357; output = sicpy.ind, line = 3617):
+   -- Unmatched range closing operator ).
+.
+## Warning (input = sicpy.idx, line = 1697; output = sicpy.ind, line = 3647):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1698; output = sicpy.ind, line = 3647):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1665; output = sicpy.ind, line = 3657):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1667; output = sicpy.ind, line = 3657):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1956; output = sicpy.ind, line = 3663):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 249; output = sicpy.ind, line = 3664):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 262; output = sicpy.ind, line = 3664):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3186; output = sicpy.ind, line = 3671):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3203; output = sicpy.ind, line = 3671):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1538; output = sicpy.ind, line = 3691):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1580; output = sicpy.ind, line = 3691):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3415; output = sicpy.ind, line = 3696):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3450; output = sicpy.ind, line = 3696):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2049; output = sicpy.ind, line = 3702):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2276; output = sicpy.ind, line = 3702):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2206; output = sicpy.ind, line = 3703):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2225; output = sicpy.ind, line = 3703):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2053; output = sicpy.ind, line = 3705):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2063; output = sicpy.ind, line = 3705):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2678; output = sicpy.ind, line = 3706):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2704; output = sicpy.ind, line = 3706):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2102; output = sicpy.ind, line = 3707):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2111; output = sicpy.ind, line = 3707):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1071; output = sicpy.ind, line = 3737):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1092; output = sicpy.ind, line = 3737):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3180; output = sicpy.ind, line = 3755):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3185; output = sicpy.ind, line = 3755):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 152; output = sicpy.ind, line = 3758):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 159; output = sicpy.ind, line = 3758):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1611; output = sicpy.ind, line = 3759):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1614; output = sicpy.ind, line = 3759):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 318; output = sicpy.ind, line = 3760):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 335; output = sicpy.ind, line = 3760):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1674; output = sicpy.ind, line = 3783):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1675; output = sicpy.ind, line = 3783):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1422; output = sicpy.ind, line = 3797):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1517; output = sicpy.ind, line = 3797):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1094; output = sicpy.ind, line = 3798):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1126; output = sicpy.ind, line = 3798):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2609; output = sicpy.ind, line = 3809):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2626; output = sicpy.ind, line = 3809):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2422; output = sicpy.ind, line = 3812):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2441; output = sicpy.ind, line = 3812):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1796; output = sicpy.ind, line = 3846):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1829; output = sicpy.ind, line = 3846):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1811; output = sicpy.ind, line = 3850):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1816; output = sicpy.ind, line = 3850):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1798; output = sicpy.ind, line = 3852):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1806; output = sicpy.ind, line = 3852):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1807; output = sicpy.ind, line = 3857):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1810; output = sicpy.ind, line = 3857):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1264; output = sicpy.ind, line = 3865):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1301; output = sicpy.ind, line = 3865):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 790; output = sicpy.ind, line = 3869):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = sicpy.idx, line = 3514; output = sicpy.ind, line = 3876):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3524; output = sicpy.ind, line = 3876):
+   -- Inconsistent page encapsulator xx{5.22} within range.
+
+## Warning (input = sicpy.idx, line = 3529; output = sicpy.ind, line = 3876):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1464; output = sicpy.ind, line = 3897):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1481; output = sicpy.ind, line = 3897):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2646; output = sicpy.ind, line = 3925):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2650; output = sicpy.ind, line = 3925):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2668; output = sicpy.ind, line = 3929):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2674; output = sicpy.ind, line = 3929):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1966; output = sicpy.ind, line = 3934):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1979; output = sicpy.ind, line = 3934):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2258; output = sicpy.ind, line = 3935):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2279; output = sicpy.ind, line = 3935):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 919; output = sicpy.ind, line = 3962):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 926; output = sicpy.ind, line = 3962):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 901; output = sicpy.ind, line = 3965):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 917; output = sicpy.ind, line = 3965):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 358; output = sicpy.ind, line = 3970):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 369; output = sicpy.ind, line = 3970):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1487; output = sicpy.ind, line = 3990):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1493; output = sicpy.ind, line = 3990):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1392; output = sicpy.ind, line = 3991):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1418; output = sicpy.ind, line = 3991):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2939; output = sicpy.ind, line = 4014):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 2943; output = sicpy.ind, line = 4014):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 3032; output = sicpy.ind, line = 4016):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 3043; output = sicpy.ind, line = 4016):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 1136; output = sicpy.ind, line = 4042):
+   -- Extra range opening operator (.
+
+## Warning (input = sicpy.idx, line = 1142; output = sicpy.ind, line = 4042):
+   -- Unmatched range closing operator ).
+
+## Warning (input = sicpy.idx, line = 2196; output = sicpy.ind, line = 4157):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+done (4164 lines written, 708 warnings).
+Output written in sicpy.ind.
+Transcript written in sicpy.ilg.
